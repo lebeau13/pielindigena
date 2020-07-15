@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pielindigena/static/css/main.67c26755.chunk.css",
+    "main.js": "/pielindigena/static/js/main.970453e5.chunk.js",
+    "main.js.map": "/pielindigena/static/js/main.970453e5.chunk.js.map",
+    "runtime-main.js": "/pielindigena/static/js/runtime-main.6ec6ccfc.js",
+    "runtime-main.js.map": "/pielindigena/static/js/runtime-main.6ec6ccfc.js.map",
+    "static/js/2.70b1d41e.chunk.js": "/pielindigena/static/js/2.70b1d41e.chunk.js",
+    "static/js/2.70b1d41e.chunk.js.map": "/pielindigena/static/js/2.70b1d41e.chunk.js.map",
+    "index.html": "/pielindigena/index.html",
+    "precache-manifest.f6d8131a93f1031734a83bf3acd1079c.js": "/pielindigena/precache-manifest.f6d8131a93f1031734a83bf3acd1079c.js",
+    "service-worker.js": "/pielindigena/service-worker.js",
+    "static/css/main.67c26755.chunk.css.map": "/pielindigena/static/css/main.67c26755.chunk.css.map",
+    "static/js/2.70b1d41e.chunk.js.LICENSE.txt": "/pielindigena/static/js/2.70b1d41e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ec6ccfc.js",
+    "static/js/2.70b1d41e.chunk.js",
+    "static/css/main.67c26755.chunk.css",
+    "static/js/main.970453e5.chunk.js"
+  ]
+}
