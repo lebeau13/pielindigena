@@ -1,0 +1,16 @@
+import React, { Component } from 'react';
+export default class Footer extends Component {
+    render() {
+        return (
+            <footer>
+                <div className="row">
+                    <div id="go-top">
+                        <a className="smoothscroll" title="Back to Top" href="#home">
+                            <i className="im im-angle-up" />
+                        </a>
+                    </div>
+                </div>
+            </footer>
+        );
+    }
+}
