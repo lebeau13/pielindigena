@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pielindigena/static/css/main.67c26755.chunk.css",
-    "main.js": "/pielindigena/static/js/main.970453e5.chunk.js",
-    "main.js.map": "/pielindigena/static/js/main.970453e5.chunk.js.map",
-    "runtime-main.js": "/pielindigena/static/js/runtime-main.6ec6ccfc.js",
-    "runtime-main.js.map": "/pielindigena/static/js/runtime-main.6ec6ccfc.js.map",
-    "static/js/2.70b1d41e.chunk.js": "/pielindigena/static/js/2.70b1d41e.chunk.js",
-    "static/js/2.70b1d41e.chunk.js.map": "/pielindigena/static/js/2.70b1d41e.chunk.js.map",
-    "index.html": "/pielindigena/index.html",
-    "precache-manifest.24d81e2cb7df2ef1014c9aa16ed39188.js": "/pielindigena/precache-manifest.24d81e2cb7df2ef1014c9aa16ed39188.js",
-    "service-worker.js": "/pielindigena/service-worker.js",
-    "static/css/main.67c26755.chunk.css.map": "/pielindigena/static/css/main.67c26755.chunk.css.map",
-    "static/js/2.70b1d41e.chunk.js.LICENSE.txt": "/pielindigena/static/js/2.70b1d41e.chunk.js.LICENSE.txt"
+    "main.css": "/lebeau13/pielindigena/static/css/main.1f02a27d.chunk.css",
+    "main.js": "/lebeau13/pielindigena/static/js/main.a0010d39.chunk.js",
+    "main.js.map": "/lebeau13/pielindigena/static/js/main.a0010d39.chunk.js.map",
+    "runtime-main.js": "/lebeau13/pielindigena/static/js/runtime-main.028f2ba8.js",
+    "runtime-main.js.map": "/lebeau13/pielindigena/static/js/runtime-main.028f2ba8.js.map",
+    "static/js/2.698f690f.chunk.js": "/lebeau13/pielindigena/static/js/2.698f690f.chunk.js",
+    "static/js/2.698f690f.chunk.js.map": "/lebeau13/pielindigena/static/js/2.698f690f.chunk.js.map",
+    "index.html": "/lebeau13/pielindigena/index.html",
+    "precache-manifest.9570b74490a41f1c22f599bed2492ccf.js": "/lebeau13/pielindigena/precache-manifest.9570b74490a41f1c22f599bed2492ccf.js",
+    "service-worker.js": "/lebeau13/pielindigena/service-worker.js",
+    "static/css/main.1f02a27d.chunk.css.map": "/lebeau13/pielindigena/static/css/main.1f02a27d.chunk.css.map",
+    "static/js/2.698f690f.chunk.js.LICENSE.txt": "/lebeau13/pielindigena/static/js/2.698f690f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ec6ccfc.js",
-    "static/js/2.70b1d41e.chunk.js",
-    "static/css/main.67c26755.chunk.css",
-    "static/js/main.970453e5.chunk.js"
+    "static/js/runtime-main.028f2ba8.js",
+    "static/js/2.698f690f.chunk.js",
+    "static/css/main.1f02a27d.chunk.css",
+    "static/js/main.a0010d39.chunk.js"
   ]
 }
