@@ -1,22 +1,29 @@
 {
   "files": {
     "main.css": "/pielindigena/static/css/main.950fce18.chunk.css",
-    "main.js": "/pielindigena/static/js/main.c54461a6.chunk.js",
-    "main.js.map": "/pielindigena/static/js/main.c54461a6.chunk.js.map",
+    "main.js": "/pielindigena/static/js/main.a1c9ade8.chunk.js",
+    "main.js.map": "/pielindigena/static/js/main.a1c9ade8.chunk.js.map",
     "runtime-main.js": "/pielindigena/static/js/runtime-main.4b485366.js",
     "runtime-main.js.map": "/pielindigena/static/js/runtime-main.4b485366.js.map",
     "static/js/2.698f690f.chunk.js": "/pielindigena/static/js/2.698f690f.chunk.js",
     "static/js/2.698f690f.chunk.js.map": "/pielindigena/static/js/2.698f690f.chunk.js.map",
     "index.html": "/pielindigena/index.html",
-    "precache-manifest.a0841f4bb89de69055edf631fa318aed.js": "/pielindigena/precache-manifest.a0841f4bb89de69055edf631fa318aed.js",
+    "precache-manifest.e56a1bf9068b8c0adea3c9fd6d71c64a.js": "/pielindigena/precache-manifest.e56a1bf9068b8c0adea3c9fd6d71c64a.js",
     "service-worker.js": "/pielindigena/service-worker.js",
     "static/css/main.950fce18.chunk.css.map": "/pielindigena/static/css/main.950fce18.chunk.css.map",
-    "static/js/2.698f690f.chunk.js.LICENSE.txt": "/pielindigena/static/js/2.698f690f.chunk.js.LICENSE.txt"
+    "static/js/2.698f690f.chunk.js.LICENSE.txt": "/pielindigena/static/js/2.698f690f.chunk.js.LICENSE.txt",
+    "static/media/alexanderprada.jpg": "/pielindigena/static/media/alexanderprada.5c6fd07b.jpg",
+    "static/media/angievega.jpg": "/pielindigena/static/media/angievega.668a296e.jpg",
+    "static/media/claudiaserrano.jpg": "/pielindigena/static/media/claudiaserrano.25800bb4.jpg",
+    "static/media/jessicazamora.jpg": "/pielindigena/static/media/jessicazamora.7db0fc13.jpg",
+    "static/media/luisvelandia.jpg": "/pielindigena/static/media/luisvelandia.ff0de45c.jpg",
+    "static/media/martinayala.jpg": "/pielindigena/static/media/martinayala.ea4af548.jpg",
+    "static/media/renevillareal.jpg": "/pielindigena/static/media/renevillareal.10bce576.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4b485366.js",
     "static/js/2.698f690f.chunk.js",
     "static/css/main.950fce18.chunk.css",
-    "static/js/main.c54461a6.chunk.js"
+    "static/js/main.a1c9ade8.chunk.js"
   ]
 }
