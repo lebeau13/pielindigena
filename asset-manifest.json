@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pielindigena/static/css/main.1f02a27d.chunk.css",
-    "main.js": "/pielindigena/static/js/main.3de183a4.chunk.js",
-    "main.js.map": "/pielindigena/static/js/main.3de183a4.chunk.js.map",
+    "main.css": "/pielindigena/static/css/main.950fce18.chunk.css",
+    "main.js": "/pielindigena/static/js/main.c54461a6.chunk.js",
+    "main.js.map": "/pielindigena/static/js/main.c54461a6.chunk.js.map",
     "runtime-main.js": "/pielindigena/static/js/runtime-main.4b485366.js",
     "runtime-main.js.map": "/pielindigena/static/js/runtime-main.4b485366.js.map",
     "static/js/2.698f690f.chunk.js": "/pielindigena/static/js/2.698f690f.chunk.js",
     "static/js/2.698f690f.chunk.js.map": "/pielindigena/static/js/2.698f690f.chunk.js.map",
     "index.html": "/pielindigena/index.html",
-    "precache-manifest.2bfcbc92fafe748d19487e304ace543f.js": "/pielindigena/precache-manifest.2bfcbc92fafe748d19487e304ace543f.js",
+    "precache-manifest.a0841f4bb89de69055edf631fa318aed.js": "/pielindigena/precache-manifest.a0841f4bb89de69055edf631fa318aed.js",
     "service-worker.js": "/pielindigena/service-worker.js",
-    "static/css/main.1f02a27d.chunk.css.map": "/pielindigena/static/css/main.1f02a27d.chunk.css.map",
+    "static/css/main.950fce18.chunk.css.map": "/pielindigena/static/css/main.950fce18.chunk.css.map",
     "static/js/2.698f690f.chunk.js.LICENSE.txt": "/pielindigena/static/js/2.698f690f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4b485366.js",
     "static/js/2.698f690f.chunk.js",
-    "static/css/main.1f02a27d.chunk.css",
-    "static/js/main.3de183a4.chunk.js"
+    "static/css/main.950fce18.chunk.css",
+    "static/js/main.c54461a6.chunk.js"
   ]
 }
