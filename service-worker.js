@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pielindigena/precache-manifest.4a045c96c3f39ecd236017ae372bfc4f.js"
+  "/pielindigena/precache-manifest.1f807f389567769c6a27fdbe793b4e5b.js"
 );
 
 self.addEventListener('message', (event) => {
