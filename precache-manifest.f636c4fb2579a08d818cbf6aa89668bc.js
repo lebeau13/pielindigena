@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "829a6a76f0c6b9249429400a8a8f2c85",
+    "revision": "07d52effd44adbf53bc83319a4c40ed1",
     "url": "/pielindigena/index.html"
   },
   {
-    "revision": "a19bcc383c1d33d561bd",
+    "revision": "c1f83e55e52d50a8bd82",
     "url": "/pielindigena/static/css/main.bfbccf3a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pielindigena/static/js/2.a0362a50.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a19bcc383c1d33d561bd",
-    "url": "/pielindigena/static/js/main.45c0e3cd.chunk.js"
+    "revision": "c1f83e55e52d50a8bd82",
+    "url": "/pielindigena/static/js/main.8bd7d080.chunk.js"
   },
   {
     "revision": "6f81f157384235ad7f2d",
